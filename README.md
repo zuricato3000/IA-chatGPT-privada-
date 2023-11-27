@@ -1,2 +1,3 @@
 # IA-chatGPT-privada-
 LM Studio[IA con rol de entrevistador de trabajo RH]
+Proyecto IA Entrenamiento de entrevistas de trabajo en pocas palabras darle un rol a una IA que tan dificil es...
